@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&family=Open+Sans:wght@400;700&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+@media screen and (max-width: 576px) {
+  .r1,
+  .r2 {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .carousel-caption p {
+    display: none;
+  }
+  /* .r1 col .card {
+    flex-direction: row-reverse;
+  } */
+  /* .r2 {
+    display: flex;
+    flex-direction: column;
+  } */
+}
+.col {
+  /* background-color: dimgrey; */
+  padding: 20px 0px;
+}
+
+.customNav {
+  margin: 0px 30px;
+}
+
+.sss {
+  background-color: black;
+}
+
+.carousel {
+  margin-bottom: 30px;
+}
+
+.hotNews,
+.topic {
+  margin: 30px 0px;
+}
+
+.carouselDesc {
+  font-size: 20px;
+}
+
+.sectTitle {
+  font-weight: 700;
+}
+small {
+  color: dimgray;
+}
+
+.publish {
+  display: flex;
+  margin: 20px 0px;
+}
+
+.publisher,
+.date {
+  margin: 0px;
+  padding-left: 10px;
+}
+
+.desc {
+  font-size: 18px;
+}
