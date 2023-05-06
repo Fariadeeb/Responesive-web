@@ -13,16 +13,9 @@ body {
   .carousel-caption p {
     display: none;
   }
-  /* .r1 col .card {
-    flex-direction: row-reverse;
-  } */
-  /* .r2 {
-    display: flex;
-    flex-direction: column;
-  } */
+  
 }
 .col {
-  /* background-color: dimgrey; */
   padding: 20px 0px;
 }
 
