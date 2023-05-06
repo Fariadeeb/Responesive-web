@@ -9,7 +9,9 @@ a {
   color: #000000;
 }
 
-
+.navbar {
+  background-color: black;
+}
 
 section {
   padding: 60px 0;
